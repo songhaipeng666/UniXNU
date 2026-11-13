@@ -285,6 +285,7 @@ jobs:
           path: |
             out/*/kernel/kernel.macho
             out/*/payload/payload.img
+            out/*/userdata/userdata-root.img
             out/*/payload/payload.json
             out/*/boot/boot.img
             out/*/status.txt
